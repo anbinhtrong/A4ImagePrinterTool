@@ -1,0 +1,29 @@
+## Build and Output Folders
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## User-specific and Project Artifact Folders
+Output/
+[Oo]utput/
+images/
+[Ii]mages/
+
+## Temporary and Lock Files
+~$*.docx
+*.tmp
+*.log
+
+## Visual Studio / IDE Files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS Generated Files
+.DS_Store
+Thumbs.db

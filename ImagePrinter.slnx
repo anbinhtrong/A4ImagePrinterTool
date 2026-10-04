@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/A4ImagePrintTool/A4ImagePrintTool.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/A4ImagePrintTool.Tests/A4ImagePrintTool.Tests.csproj" />
+  </Folder>
+</Solution>
